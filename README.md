@@ -1,12 +1,12 @@
 # Alzheimer's Disease Detection using Machine Learning
 
-A machine learning project that predicts whether a patient has Alzheimer's Disease based on clinical health data — built as part of an ML course project (May 2026).
+A machine learning project that predicts whether a patient has Alzheimer's Disease based on clinical health data built as part of an ML course project.
 
 ---
 
 ## About the Project
 
-This project uses a real-world clinical dataset of 2,149 patients with 35 features — things like age, BMI, memory complaints, cognitive test scores, lifestyle habits, and medical history — to build a model that flags patients likely to have Alzheimer's Disease.
+This project uses a real-world clinical dataset of 2,149 patients with 35 features — things like age, BMI, memory complaints, cognitive test scores, lifestyle habits, and medical history to build a model that flags patients likely to have Alzheimer's Disease.
 
 The idea is simple: if we can detect Alzheimer's early from routine health checkup data, doctors can act faster and improve patient outcomes.
 
